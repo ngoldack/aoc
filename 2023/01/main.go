@@ -14,7 +14,7 @@ func main() {
 	content := strings.Split(string(file), "\n")
 
 	sum := 0
-	for i, v := range content {
+	for _, v := range content {
 		x, err := decode(v)
 		if err != nil {
 			panic(err)
