@@ -9,7 +9,7 @@ This year I'm completing the challenges in Go.
 | Day | Status |
 | --- | ------ |
 | 1   | ⭐      |
-| 2   | 🚧      |
+| 2   | ⭐      |
 | 3   | ❌      |
 | 4   | ❌      |
 | 5   | ❌      |
